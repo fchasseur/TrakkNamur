@@ -21,4 +21,5 @@
 ## Projets
 
 * [Puzzle à la laser](projets/puzzle-a-la-laser.md)
+* [Mon scanneur à livre, version diy](projets/mon-scanneur-a-livre-version-diy.md)
 

@@ -19,7 +19,7 @@ Taille max : 600mm x 300mmMatériaux : MDF, multiplex, papier, cuir, alu anodis�
 
 Déposer l’outil de mise au point  sur le bord de la lentille
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 
 
