@@ -22,4 +22,8 @@
 
 * [Puzzle à la laser](projets/puzzle-a-la-laser.md)
 * [Mon scanneur à livre, version diy](projets/mon-scanneur-a-livre-version-diy.md)
+* [Maquette d'archi \(Urban\)](projets/maquette-darchi-urban.md)
+* [Armure en bois miniature pour Samouraï](projets/armure-en-bois-miniature-pour-samourai.md)
+* [Décoration murale « arbre » \(à la CNC\)](projets/decoration-murale-arbre-a-la-cnc.md)
+* [Impression d'un outil de forme pour les résistances](projets/impression-dun-outil-de-forme-pour-les-resistances.md)
 
