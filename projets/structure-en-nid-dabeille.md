@@ -4,9 +4,9 @@
 
 Petit script en openscad pour générer des structures en nid d'abeille
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2853%29.png)
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 
 

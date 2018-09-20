@@ -6,5 +6,5 @@ Les côtés de la borne ainsi que le bas et le fond \(arrière\) sont en MDF 6mm
 
 
 
-![](../.gitbook/assets/image%20%2865%29.png)
+![](../.gitbook/assets/image%20%2875%29.png)
 

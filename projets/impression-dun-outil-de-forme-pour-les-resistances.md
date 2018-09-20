@@ -4,5 +4,5 @@
 
 Les sources sont ici :[http://www.thingiverse.com/thing:26025](http://www.thingiverse.com/thing:26025) Et il y en a un en démo au Fablab...
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 

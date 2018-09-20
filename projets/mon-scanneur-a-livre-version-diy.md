@@ -29,9 +29,9 @@ Toutes ces questions ont été traitées pendant des années par toute la commun
 
 _to be continued…_ revenez plus tard, je peux pas continuer j'ai piscine.
 
-![](../.gitbook/assets/image%20%2858%29.png)
+![](../.gitbook/assets/image%20%2866%29.png)
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ## **Pour aller plus loin**
 
