@@ -1,7 +1,3 @@
----
-description: Tout ce que vouliez savoir sur la CNC du trakk
----
-
 # CNC
 
 ![CNC dans son habitat premier](../.gitbook/assets/image%20%2826%29.png)
@@ -27,7 +23,7 @@ Porte outils de diamètre \(S sur le schéma\):
 * 6 mm
 * 8 mm
 
-![i doit &#xEA;tre sup&#xE9;rieur &#xE0; l&apos;&#xE9;paisseur du panneau \(ou de la profondeur de la gravure\)](../.gitbook/assets/image%20%2844%29.png)
+![i doit &#xEA;tre sup&#xE9;rieur &#xE0; l&apos;&#xE9;paisseur du panneau \(ou de la profondeur de la gravure\)](../.gitbook/assets/image%20%2845%29.png)
 
 ## **Outil de coupe \(Fraise\)**
 

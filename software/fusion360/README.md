@@ -17,7 +17,7 @@
 7. Timeline: Historique des actions sur le design
 8. Barre de navigation
 
-![](../../.gitbook/assets/image%20%2845%29.png)
+![](../../.gitbook/assets/image%20%2846%29.png)
 
  **Souris** 
 
@@ -57,7 +57,7 @@ Cliquer sur le bouton Sketch et selectionner un plan sur lequel vous voulez trav
 
  Dessiner votre forme à la grosse louche, nous rajouterons les dimensions par la suite![](https://hackpad-attachments.imgix.net/trakk.hackpad.com_TRS6jQvTlwB_p.329185_1476692314604_undefined?fit=max&w=882)   
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 
 * Utiliser des contraintes pour le positionnement
 
@@ -89,7 +89,7 @@ Noter qu'il est possible d'ajouter des "équations" dans les mesures \(ici :  - 
 
  Toute modifciations dans le panneaux des paramètres se répercutent directement dans le modèle 3D.  Il est également possible d'ajouter des "modificateurs de formes" \(fillet, chanfrein, ...\)![](https://hackpad-attachments.imgix.net/trakk.hackpad.com_TRS6jQvTlwB_p.329185_1476699518417_undefined?fit=max&w=882) 
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 Et ou des découpes ![](https://hackpad-attachments.imgix.net/trakk.hackpad.com_TRS6jQvTlwB_p.329185_1476699865454_undefined?fit=max&w=882)
 

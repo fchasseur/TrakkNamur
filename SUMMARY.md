@@ -20,5 +20,5 @@
 
 ## Projets
 
-* [Puzzle à la laser](projts/puzzle-a-la-laser.md)
+* [Puzzle à la laser](projets/puzzle-a-la-laser.md)
 

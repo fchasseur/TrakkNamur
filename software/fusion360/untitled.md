@@ -34,7 +34,7 @@ U ne fois votre design prêt, rendez vous dans la partie CAM de Fusion360.
 
 Une fois le point d’origine et le système de coordonnées établi, il faut s’assurer que le stock de votre pièce ne présente pas de décalage pour la découpe \(offset\). En supprimant tous les offsets, on s’assure que la découpe sera fidèle au dimensions initiales de votre modèle.
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
  Une fois que l’on s’est assuré que ces décalages étaient égal à 0. On peut valider le set-up
 
@@ -51,7 +51,7 @@ En premier lieu, dans le premier onglet, nous allons définir l’outil \(tool\)
 La vitesse de rotation et d’avance seront défini en fonction de la matière usinée \( Voir[ ici ](../../tools/cnc.md#vitesse-davance-et-vitesse-de-coupe) \)    
 Dans l’onglet géométrie, nous devons définir les contours à l’intérieur desquelles la coupe aura lieu \(stock contours\)
 
-![](../../.gitbook/assets/image%20%2843%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 
 ![](../../.gitbook/assets/image%20%2833%29.png)
 
