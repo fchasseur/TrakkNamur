@@ -10,7 +10,10 @@
 * [CNC](tools/cnc.md)
 * [Thermoformeuse](tools/thermoformeuse.md)
 * [Découpeuse vinyle](tools/decoupeuse-vinyle.md)
-* [Ultimaker](tools/ultimaker.md)
+* [Ultimaker](tools/ultimaker/README.md)
+  * [Quel logiciel utiliser pour dessiner en 3D?](tools/ultimaker/quel-logiciel-utiliser-pour-dessiner-en-3d.md)
+  * [Quelles sont les techniques de scans 3D?](tools/ultimaker/quelles-sont-les-techniques-de-scans-3d.md)
+  * [​​Où trouver un modèle 3D?](tools/ultimaker/ou-trouver-un-modele-3d.md)
 
 ## Software
 

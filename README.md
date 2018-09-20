@@ -33,7 +33,7 @@ Les machines disponibles actuellement au fablab du TRAKK sont les suivantes :
 
 ### Contact
 
-Vous désirez en savoir plus sur le fablab du TRAKK? Contactez [François](mailto:francois@trakk.be), notre fab manager.
+Vous désirez en savoir plus sur le fablab du TRAKK? Contactez [François](mailto:fablab@trakk.be), notre fab manager.
 
 
 

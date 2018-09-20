@@ -6,14 +6,14 @@
 
 ## **Workflow**
 
-1. ​​Exporter son modèle 3D
-2. ​​Soit en le dessinant à l'aide d'un logiciel 3D. Voir  ​[+Quel logiciel utiliser pour dessiner en 3D?](https://paper.dropbox.com/doc/wYxSao8GPwG7zXT9NexxQ)​
-3. ​​Soit en scannant : ​[+Quelles sont les techniques de scans 3D?](https://paper.dropbox.com/doc/8pC8znJBnGP4raD7BnJtT)​
-4. ​​Soit en téléchargeant un modèle tout fait : ​[+Où trouver un modèle 3D?](https://paper.dropbox.com/doc/usX8GqYAmJh8Jz0avOeUs)​
-5. ​​Vérifier que le modèle est correct pour l'impression : ​[+Comment utiliser meshMixer pour réparer mon modèle 3D?](https://paper.dropbox.com/doc/0ZEE2s2uEZc1OfP6Wgf7q)​
-6. ​​'Slicer le modèle' : Convertir le modèle 3D \(STL, OBJ, DAE\) en GCODE avec Cura
-7. ​​Exporter le modèle sur une carte SD
-8. ​​Lancer l'impression depuis l'Ulticontroleur
+1. ​​Créer et Exporter son modèle 3D en STL ou OBJ
+   1. ​​Soit en le dessinant à l'aide d'un logiciel 3D. Voir  [​ici](quel-logiciel-utiliser-pour-dessiner-en-3d.md)​
+   2. ​​Soit en scannant : [Quelles sont les techniques de scans 3D?](quelles-sont-les-techniques-de-scans-3d.md)
+   3. ​​Soit en téléchargeant un modèle tout fait :  [​​Où trouver un modèle 3D?](ou-trouver-un-modele-3d.md)
+2. ​​Vérifier que le modèle est correct pour l'impression :​​[https://www.youtube.com/watch?v=lojBhGEn-Zw](https://www.youtube.com/watch?v=lojBhGEn-Zw)  
+3. ​​'Slicer le modèle' : Convertir le modèle 3D \(STL, OBJ, DAE\) en GCODE avec Cura
+4. ​​Exporter le modèle sur une carte SD
+5. ​​Lancer l'impression depuis l'Ulticontroleur
 
 ## ​​ ​**Quel filament choisir?**​​
 
@@ -39,9 +39,7 @@ Superbe article ici : [http://nicklievendag.com/filament-guide](http://nicklieve
 
   ![User-uploaded image: hackpad.com\_OlBFofNx4NC\_p.329185\_1424380709171\_undefined](https://paper.dropbox.com/ep/redirect/image?url=https%3A%2F%2Fhackpad-attachments.imgix.net%2Fhackpad.com_OlBFofNx4NC_p.329185_1424380709171_undefined%3Ffit%3Dmax%26w%3D882&hmac=w%2B%2Bo22YNA8Hhnx61oZjsI8OECZifS0hsqJTJJLQ06WA%3D&width=1490)  ​​ ​​ ​​
 
-##   ​​​​Pour aller plus loin : ​​
-
-  
+##   ​​​​Pour aller plus loin
 
 *  ​​[http://support.3dverkstan.se/article/30-getting-better-prints](http://support.3dverkstan.se/article/30-getting-better-prints)​​
 * [https://www.simplify3d.com/support/print-quality-troubleshooting/](https://www.simplify3d.com/support/print-quality-troubleshooting/#blobs-and-zits)[\#blobs](https://paper.dropbox.com/ep/search/?q=%23blobs)[-and-zits](https://www.simplify3d.com/support/print-quality-troubleshooting/#blobs-and-zits)​​ ​​ ​​   
@@ -50,7 +48,5 @@ Superbe article ici : [http://nicklievendag.com/filament-guide](http://nicklieve
 
  
 
-  ![User-uploaded image: trakk.hackpad.com\_OlBFofNx4NC\_attachment-1424154039850\_photo.jpg](https://paper.dropbox.com/ep/redirect/image?url=https%3A%2F%2Fhackpad-attachments.imgix.net%2Ftrakk.hackpad.com_OlBFofNx4NC_attachment-1424154039850_photo.jpg%3Ffit%3Dmax%26w%3D882&hmac=5U4eRttdwxIWIJhAB%2B3NA%2Bp98DJQeZA67QvXxU0%2F5tE%3D)
 
-*   ​​ ​​ 
-* 
+
