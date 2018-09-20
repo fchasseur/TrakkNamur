@@ -2,5 +2,5 @@
 
 des petits « plots » derrière pour maintenir un écart par rapport au mur+ des oiseaux en tissus
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 

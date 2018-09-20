@@ -26,4 +26,6 @@
 * [Armure en bois miniature pour Samouraï](projets/armure-en-bois-miniature-pour-samourai.md)
 * [Décoration murale « arbre » \(à la CNC\)](projets/decoration-murale-arbre-a-la-cnc.md)
 * [Impression d'un outil de forme pour les résistances](projets/impression-dun-outil-de-forme-pour-les-resistances.md)
+* [Création d'une mini borne arcade en bois.](projets/creation-dune-mini-borne-arcade-en-bois..md)
+* [Structure en nid d'abeille](projets/structure-en-nid-dabeille.md)
 
