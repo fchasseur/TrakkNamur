@@ -8,9 +8,9 @@
 
 * [Laser](tools/laser.md)
 * [CNC](tools/cnc.md)
-* [3D Printer](tools/3d-printer.md)
 * [Thermoformeuse](tools/thermoformeuse.md)
 * [Découpeuse vinyle](tools/decoupeuse-vinyle.md)
+* [3D Printers](https://paper.dropbox.com/doc/Ultimaker--ANTw~bpEVIKB7~dO0aQ3D5ZbAg-AnRsX68ztyFG8AfnkJd9M)
 
 ## Software
 
