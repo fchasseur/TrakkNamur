@@ -18,3 +18,7 @@
   * [Fusion 360 et l'usinage CNC](software/fusion360/untitled.md)
 * [Untitled](software/untitled-1.md)
 
+## Projets
+
+* [Puzzle à la laser](projts/puzzle-a-la-laser.md)
+
