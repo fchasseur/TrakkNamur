@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Home](README.md)
-* [Intrant](http://intra.trakk.be)
 * [Modalités pratiques](http://www.trakk.be/fablab/modalites-pratiques/)
+* [Intranet](http://intra.trakk.be)
 
 ## Tools
 
