@@ -20,7 +20,7 @@
 
 * [Galaad](software/galaad.md)
 * [Fusion 360 et l'usinage CNC](software/untitled.md)
-* [Logiciels de dessin vectoriel](software/untitled-1.md)
+* [Logiciels de dessin vectoriel](software/dessinvectoriel.md)
 
 ## Workshop
 
