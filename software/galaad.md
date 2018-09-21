@@ -10,7 +10,7 @@
 
  ![](https://hackpad-attachments.imgix.net/hackpad.com_W2FyB658rNH_p.329185_1428396300685_undefined?fit=max&w=882)
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 
 
@@ -24,13 +24,13 @@
 
 **Définir la planche :** CTRL + N --&gt; et on donne les dimensions de la planche qui sera usinée
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 
 
  On détermine ensuite les valeurs par defaut qui seront utilisées pour l'usinage. 
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%2877%29.png)
 
 ## **Design**
 
@@ -40,7 +40,7 @@ Galaad  travaille en vectoriel et importe sans soucis le format DXF. Inkscape, I
 
 Par défaut, la fraise usine à la profondeur déterminée par défaut, son centre, se déplaçant le long de chaque trait. ContournageIl est cependant possible \(et heureusement\) de définir la compensation d'outils : la fraise se déplace alors de facon tangentiel, à l'intérieur ou à l'extérieur du trait : 
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2859%29.png)
 
 Pour cela, sélectionner le trait, cliquer sur l'icone "contournage" et déterminer si l'outil passe à l'intérieur ou à l'extérieur.
 
@@ -50,7 +50,7 @@ Il est également possible de définir une profondeur d'usinage différente pour
 
 
 
-![](../.gitbook/assets/image%20%2857%29.png)
+![](../.gitbook/assets/image%20%2861%29.png)
 
 ###  Hachurage
 
@@ -68,7 +68,7 @@ Il est toujours bon de faire une simulation avant de démarrer.  \(Menu usinage/
 
 La page de paramètres d'usinage disparaît pour laisser place à la page de réglage de l'origine pièce, non moins fournie en zones de contrôle  Le dialogue entre votre logiciel préféré et votre commande numérique s'ouvre dès validation du message de présentation d'outil. Cette première ouverture peut parfois durer quelques longues secondes.
 
-![](../.gitbook/assets/image%20%2868%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
   Il s'agit maintenant d'indiquer à Galaad où se trouve la pièce à usiner sur le plateau de votre machine.  Il n'en connaît que les dimensions et les tracés à usiner. Il va donc falloir lui donner un point de référence XYZ et préciser où se trouve la pièce par rapport à ce point. 
 

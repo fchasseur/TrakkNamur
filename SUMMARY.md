@@ -18,8 +18,7 @@
 ## Software
 
 * [Galaad](software/galaad.md)
-* [Fusion360](software/fusion360/README.md)
-  * [Fusion 360 et l'usinage CNC](software/fusion360/untitled.md)
+* [Fusion 360 et l'usinage CNC](software/untitled.md)
 * [Untitled](software/untitled-1.md)
 
 ## Projets
@@ -32,4 +31,10 @@
 * [Impression d'un outil de forme pour les résistances](projets/impression-dun-outil-de-forme-pour-les-resistances.md)
 * [Création d'une mini borne arcade en bois.](projets/creation-dune-mini-borne-arcade-en-bois..md)
 * [Structure en nid d'abeille](projets/structure-en-nid-dabeille.md)
+* [Conception et réalisation  THROTTLER](projets/conception-et-realisation-throttler.md)
+
+## Workshop
+
+* [Fusion360](workshop/fusion360.md)
+* [Base de la programmation en C](workshop/base-de-la-programmation-en-c.md)
 
