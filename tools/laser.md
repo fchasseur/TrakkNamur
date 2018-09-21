@@ -1,6 +1,10 @@
 # Laser
 
-Taille max : 600mm x 300mmMatériaux : MDF, multiplex, papier, cuir, alu anodisé, carton,...
+La laser découpe et grave de mutliple matériaux. Il faut commencer par créer un [fichier vectoriel](../software/untitled-1.md)
+
+Taille max : 600mm x 300mm
+
+Matériaux : MDF, multiplex, papier, cuir, alu anodisé, carton,...
 
 **!!!! Ne pas utiliser de matériaux inconnus! Toujours vérifier la compatibilité avant de lancer la découpe/gravure !!!!!**    
 

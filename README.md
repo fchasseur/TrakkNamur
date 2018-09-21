@@ -8,7 +8,7 @@ Merci de vous inscrire par email :[ fablab@trakk.be](mailto:fablab@trakk.be)
 
 [https://youtu.be/slnUXLtgcZg](https://youtu.be/slnUXLtgcZg)
 
-### Qu’est-ce que c’est?
+## Qu’est-ce que c’est?
 
 Un Fab Lab est un LABoratoire de FABrication où toute personne, quelque soit son niveau de connaissance, peut venir expérimenter, apprendre ou fabriquer par elle-même tous types d’objets \(prototypes techniques, meubles, objets artistiques ou design, objets interactifs, etc…\). Pour cela, chaque membre peut venir utiliser les différentes machines du Fab Lab, apprendre des autres membres ou participer aux différents projets collectifs, dans le respect de [la charte MIT](http://www.trakk.be/fablab/charte-mit/)
 
@@ -20,18 +20,19 @@ Le FabLab du Trakk a ouvert au grand public en février 2015. Il se veut être a
 
 Les modalités d’utilisation du fablab sont disponibles [ici](http://www.trakk.be/modalites-pratiques/).
 
-### Machines
+## Machines
 
 Les machines disponibles actuellement au fablab du TRAKK sont les suivantes :
 
-* imprimantes 3D
-* découpeuse vinyle
-* fraiseuse numérique
-* découpeuse laser
-* Thermoformeuse
+* [Imprimantes 3D](tools/ultimaker/)
+* [Découpeuse vinyle](tools/decoupeuse-vinyle.md)
+* [Fraiseuse numérique](tools/cnc.md)
+* [Fraiseuse 5 axes](http://www.pocketnc.com/v2-resources)
+* [Découpeuse laser](tools/laser.md)
+* [Thermoformeuse](tools/thermoformeuse.md)
 * …
 
-### Contact
+## Contact
 
 Vous désirez en savoir plus sur le fablab du TRAKK? Contactez [François](mailto:fablab@trakk.be), notre fab manager.
 
