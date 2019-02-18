@@ -6,7 +6,7 @@ Une CNC est composé d'un systeme de déplacement XYZ, d'une broche et d'un outi
 
 ## **XYZ** 
 
-Notre CNC a une surface de 1700mm sur 900 mm et une surface usinable de 1400mm sur 800mm.  
+Notre CNC a une surface de 1700mm sur 900 mm et une surface usinable de 1400mm sur 800mm. On peut usiner un panneau de max 60mm  d'épaisseur.
 
 ## **Broche**
 
