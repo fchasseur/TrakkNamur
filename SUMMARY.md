@@ -35,6 +35,7 @@
 
 ## Projets
 
+* [Chaise moderne CNC](projets/chaise-moderne-cnc.md)
 * [Puzzle à la laser](projets/puzzle-a-la-laser.md)
 * [Mon scanneur à livre, version diy](projets/mon-scanneur-a-livre-version-diy.md)
 * [Maquette d'archi \(Urban\)](projets/maquette-darchi-urban.md)
