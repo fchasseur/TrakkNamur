@@ -20,3 +20,5 @@ concevoir les extrusions de câblage les emplacements des micros Switch l'axe de
 
 ![](../.gitbook/assets/image%20%2835%29.png)
 
+![](../.gitbook/assets/montage-apu.png)
+
